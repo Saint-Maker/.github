@@ -12,6 +12,8 @@
 
 **[Discord](https://discord.gg/wAAETuTgXJ):** participate in discussions, propose projects to help further the roadmap, collaborate with other builders.
 
+**[Linen](https://www.linen.dev/d/university-of-st-hildegard-of-bingen):** want to view the Discord without joining Discord? view our discussion on Linen without loggin in.
+
 **[Reddit](https://www.reddit.com/r/saintmaker/):** this is our public-facing community, so making posts that would explain the project to newcomers, making posts that summarize discussion that happened on the Discord, as well as commenting on the posts of others.
 
 **Everywhere else:** if you know someone who would be interested in the project, introduce them to it. Talk about it on your social networks, write about it on your blog, make tutorials on how to get involved, everything helps!
